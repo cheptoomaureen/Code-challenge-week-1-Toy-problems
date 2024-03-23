@@ -3,7 +3,7 @@ function validateInput(input){
     console.log(input)
     console.log(input.value)  
 
-//The value property returns the value of the value attribute of a text field.
+// using  else if loop to check the input and returning a value
 
     const checkInput = input.value;
     if (checkInput > 79 && checkInput < 100) {

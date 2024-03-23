@@ -1,9 +1,6 @@
-// const input = 70000;
-// let paye = 0;
-// let nhif = 0;
+// const input = 7000
 // const nssf = 0.06;
-// let input = input;
-// let netSalary = 0;
+// let input = input
 const form = document.getElementById("paye");
 // const input = document.getElementById("salary");
 const message = document.getElementById("net");
@@ -36,9 +33,8 @@ function payeCheck(input) {
   }
   // console.log(payeCheck);
 }
-// payeCheck(input);
 
-//checks nhif amount to be deducted
+//checks  amount to be deducted
 function nhifDeduction(input) {
   if (input >= 0 && input <= 5999) {
     return 150;

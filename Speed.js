@@ -1,7 +1,6 @@
 //The Speed Limit = 70km/h
 //5km/h >70km/h = 1 demerit point,print number of demerits
-//Math.floor(1.3)
-//12 point -> suspended
+//12 point => suspended
 checkSpeed(180);
 
 function checkSpeed(speed) {
