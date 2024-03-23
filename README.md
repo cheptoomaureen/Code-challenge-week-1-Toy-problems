@@ -52,7 +52,7 @@ Run using live server
 
 Technologies Used
 HTML
-JavaScipt
+JavaScript
 
 Contact Information
 Email:cheptoomaureen31@gmail.com
